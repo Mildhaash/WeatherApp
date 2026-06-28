@@ -1,0 +1,13 @@
+# API keys
+config.js
+.env
+
+# OS files
+Thumbs.db
+Desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
